@@ -64,7 +64,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-(https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)](https://youtu.be/WObq0iRmCDg?si=VuTFqY4UdgoaPWQT)
+https://youtu.be/WObq0iRmCDg?si=VuTFqY4UdgoaPWQT
 
 <br/>
 <br/>
